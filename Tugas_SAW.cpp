@@ -15,5 +15,9 @@ int main(){
 	
 	cout << "MATRIKS X :"<<endl;
 	int i=0;
+		do {
+			cout << a1c[i] << " | ";
+			i++;
+		}while(i<5);cout<<endl;
 	
 }
