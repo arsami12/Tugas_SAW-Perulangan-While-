@@ -81,7 +81,8 @@ int main(){
 	
 	//Menampilkan Matriks R * W
 	cout << endl;
-	cout << "MATRIKS R * W :"<<endl;					
+	cout << "MATRIKS R * W :"<<endl;
+	int p=0;					
 	
 	
 }
