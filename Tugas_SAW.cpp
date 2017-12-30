@@ -64,7 +64,8 @@ int main(){
 	
 	//Menampilkan Bobot W
 	cout << endl;
-	cout << "BOBOT W :"<<endl;			
+	cout << "BOBOT W :"<<endl;
+	int o=0;			
 	
 	
 }
