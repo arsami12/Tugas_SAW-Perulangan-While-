@@ -62,7 +62,7 @@ int main(){
 		
 	double w[5]={5,3,4,4,2};
 	
-	//Menampilkan Bobot W
+	//Menampilkan Bobot W !
 	cout << endl;
 	cout << "BOBOT W :"<<endl;
 	int o=0;
@@ -79,7 +79,7 @@ int main(){
 	double ha2[5]={ (RWa2c[0]+RWa2c[1]+RWa2c[2]+RWa2c[3]+RWa2c[4]) };
 	double ha3[5]={ (RWa3c[0]+RWa3c[1]+RWa3c[2]+RWa3c[3]+RWa3c[4]) };
 	
-	//Menampilkan Matriks R * W
+	//Menampilkan Matriks R * W !
 	cout << endl;
 	cout << "MATRIKS R * W :"<<endl;
 	int p=0;
@@ -103,7 +103,7 @@ int main(){
 	RWa2c[0]+RWa2c[1]+RWa2c[2]+RWa2c[3]+RWa2c[4],
 	RWa3c[0]+RWa3c[1]+RWa3c[2]+RWa3c[3]+RWa3c[4]};												
 	
-	//Menampilkan Nilai Akhir
+	//Menampilkan Nilai Akhir !
 	cout << endl;
 	cout << "HASIL AKHIR  :"<<endl;
 	cout << "Nilai A1 : "<<ha[0]<<endl;
