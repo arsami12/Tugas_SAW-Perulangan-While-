@@ -65,7 +65,11 @@ int main(){
 	//Menampilkan Bobot W
 	cout << endl;
 	cout << "BOBOT W :"<<endl;
-	int o=0;			
+	int o=0;
+		do {
+			cout <<w[o] << " | ";
+			o++;
+			}while(o<5);cout<<endl;			
 	
 	
 }
