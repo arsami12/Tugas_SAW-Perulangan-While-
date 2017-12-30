@@ -58,7 +58,9 @@ int main(){
 		do {
 			cout << Ra3c[n] << " | ";
 			n++;
-		}while(n<5);cout<<endl;		
+		}while(n<5);cout<<endl;
+		
+	double w[5]={5,3,4,4,2};			
 	
 	
 }
