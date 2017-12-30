@@ -14,5 +14,6 @@ int main(){
 	// Menampilkan Matriks X !
 	
 	cout << "MATRIKS X :"<<endl;
+	int i=0;
 	
 }
