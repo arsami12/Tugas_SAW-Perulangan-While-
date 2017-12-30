@@ -31,7 +31,7 @@ int main(){
 		}while(k<5);cout<<endl;
 		
 	double mc[5]={
-		
+		max(a1c[0],max(a2c[0],a3c[0])),
 	
 	};		
 	
