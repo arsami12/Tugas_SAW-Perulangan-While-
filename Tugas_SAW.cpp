@@ -54,7 +54,11 @@ int main(){
 			cout << Ra2c[m] << " | ";
 			m++;
 		}while(m<5);cout<<endl;
-	int n=0;		
+	int n=0;
+		do {
+			cout << Ra3c[n] << " | ";
+			n++;
+		}while(n<5);cout<<endl;		
 	
 	
 }
