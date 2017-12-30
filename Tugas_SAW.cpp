@@ -53,7 +53,8 @@ int main(){
 		do {
 			cout << Ra2c[m] << " | ";
 			m++;
-		}while(m<5);cout<<endl;	
+		}while(m<5);cout<<endl;
+	int n=0;		
 	
 	
 }
