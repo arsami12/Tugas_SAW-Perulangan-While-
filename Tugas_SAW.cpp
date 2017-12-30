@@ -72,7 +72,8 @@ int main(){
 			}while(o<5);cout<<endl;
 			
 	double RWa1c[5]={ (Ra1c[0]*w[0]) , (Ra1c[1]*w[1]) , (Ra1c[2]*w[2]) , (Ra1c[3]*w[3]) , (Ra1c[4]*w[4]) };
-	double RWa2c[5]={ (Ra2c[0]*w[0]) , (Ra2c[1]*w[1]) , (Ra2c[2]*w[2]) , (Ra2c[3]*w[3]) , (Ra2c[4]*w[4]) };					
+	double RWa2c[5]={ (Ra2c[0]*w[0]) , (Ra2c[1]*w[1]) , (Ra2c[2]*w[2]) , (Ra2c[3]*w[3]) , (Ra2c[4]*w[4]) };
+	double RWa3c[5]={ (Ra3c[0]*w[0]) , (Ra3c[1]*w[1]) , (Ra3c[2]*w[2]) , (Ra3c[3]*w[3]) , (Ra3c[4]*w[4]) };					
 	
 	
 }
