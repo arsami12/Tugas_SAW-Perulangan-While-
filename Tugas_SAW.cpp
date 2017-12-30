@@ -49,6 +49,7 @@ int main(){
 			cout << Ra1c[l] << " | ";
 			l++;
 		}while(l<5);cout<<endl;
+	int m=0;	
 	
 	
 }
