@@ -12,7 +12,6 @@ int main(){
 	double a3c[5]={5,4,2,2,2};
 	
 	// Menampilkan Matriks X !
-	
 	cout << "MATRIKS X :"<<endl;
 	int i=0;
 		do {
@@ -46,6 +45,10 @@ int main(){
 	cout << endl;
 	cout << "MATRIKS R :"<<endl;
 	int l=0;
+		do {
+			cout << Ra1c[l] << " | ";
+			l++;
+		}while(l<5);cout<<endl;
 	
 	
 }
