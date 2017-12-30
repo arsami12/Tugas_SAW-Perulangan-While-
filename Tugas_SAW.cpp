@@ -96,7 +96,12 @@ int main(){
 		do {
 			cout <<RWa3c[r] << " | ";
 			r++;
-			}while(r<5);cout<<endl;									
+			}while(r<5);cout<<endl;
+			
+	double ha[3]={
+		
+	
+	};											
 	
 	
 }
