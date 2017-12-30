@@ -99,7 +99,8 @@ int main(){
 			}while(r<5);cout<<endl;
 			
 	double ha[3]={
-	RWa1c[0]+RWa1c[1]+RWa1c[2]+RWa1c[3]+RWa1c[4],	
+	RWa1c[0]+RWa1c[1]+RWa1c[2]+RWa1c[3]+RWa1c[4],
+	RWa2c[0]+RWa2c[1]+RWa2c[2]+RWa2c[3]+RWa2c[4],	
 	
 	};											
 	
