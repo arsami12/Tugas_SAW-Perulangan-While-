@@ -86,7 +86,8 @@ int main(){
 		do {
 			cout <<RWa1c[p] << " | ";
 			p++;
-			}while(p<5);cout<<endl;					
+			}while(p<5);cout<<endl;
+	int q=0;							
 	
 	
 }
