@@ -91,7 +91,8 @@ int main(){
 		do {
 			cout <<RWa2c[q] << " | ";
 			q++;
-			}while(q<5);cout<<endl;							
+			}while(q<5);cout<<endl;
+	int r=0;									
 	
 	
 }
