@@ -106,4 +106,5 @@ int main(){
 	//Menampilkan Nilai Akhir
 	cout << endl;
 	cout << "HASIL AKHIR  :"<<endl;
+	cout << "Nilai A1 : "<<ha[0]<<endl;
 }
