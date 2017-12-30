@@ -28,6 +28,11 @@ int main(){
 		do {
 			cout << a3c[k] << " | ";
 			k++;
-		}while(k<5);cout<<endl;		
+		}while(k<5);cout<<endl;
+		
+	double mc[5]={
+		
+	
+	};		
 	
 }
