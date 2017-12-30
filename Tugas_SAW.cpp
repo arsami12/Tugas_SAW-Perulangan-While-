@@ -19,6 +19,10 @@ int main(){
 			cout << a1c[i] << " | ";
 			i++;
 		}while(i<5);cout<<endl;
-	int j=0;	
+	int j=0;
+		do {
+			cout << a2c[j] << " | ";
+			j++;
+		}while(j<5);cout<<endl;	
 	
 }
