@@ -23,6 +23,7 @@ int main(){
 		do {
 			cout << a2c[j] << " | ";
 			j++;
-		}while(j<5);cout<<endl;	
+		}while(j<5);cout<<endl;
+	int k=0;		
 	
 }
