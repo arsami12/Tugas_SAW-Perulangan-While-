@@ -11,4 +11,8 @@ int main(){
 	double a2c[5]={3,3,4,2,3};
 	double a3c[5]={5,4,2,2,2};
 	
+	// Menampilkan Matriks X !
+	
+	cout << "MATRIKS X :"<<endl;
+	
 }
