@@ -82,7 +82,11 @@ int main(){
 	//Menampilkan Matriks R * W
 	cout << endl;
 	cout << "MATRIKS R * W :"<<endl;
-	int p=0;					
+	int p=0;
+		do {
+			cout <<RWa1c[p] << " | ";
+			p++;
+			}while(p<5);cout<<endl;					
 	
 	
 }
