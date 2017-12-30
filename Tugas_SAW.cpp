@@ -35,7 +35,7 @@ int main(){
 		max(a1c[1],max(a2c[1],a3c[1])),
 		max(a1c[2],max(a2c[2],a3c[2])),
 		max(a1c[3],max(a2c[3],a3c[3])),
-	
+		max(a1c[4],max(a2c[4],a3c[4]))	
 	};		
 	
 }
