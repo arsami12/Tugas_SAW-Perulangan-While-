@@ -45,6 +45,7 @@ int main(){
 	//Menampilkan Matriks R !
 	cout << endl;
 	cout << "MATRIKS R :"<<endl;
+	int l=0;
 	
 	
 }
