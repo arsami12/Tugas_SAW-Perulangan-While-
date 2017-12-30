@@ -69,7 +69,9 @@ int main(){
 		do {
 			cout <<w[o] << " | ";
 			o++;
-			}while(o<5);cout<<endl;			
+			}while(o<5);cout<<endl;
+			
+	double RWa1c[5]={ (Ra1c[0]*w[0]) , (Ra1c[1]*w[1]) , (Ra1c[2]*w[2]) , (Ra1c[3]*w[3]) , (Ra1c[4]*w[4]) };					
 	
 	
 }
